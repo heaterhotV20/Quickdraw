@@ -9,8 +9,9 @@ An example of a image classification using the Keras libraries.
 
 ### Tech
 
+Refer to QuickDraw.py for the image classification method.
 
 ### Installation
 
-Quick Draw requires google collab environment to run.
+QuickDraw requires google collab environment to run.
 
